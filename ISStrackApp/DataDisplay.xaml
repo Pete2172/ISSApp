@@ -1,0 +1,53 @@
+﻿<UserControl x:Class="ISStrackApp.DataDisplay"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ISStrackApp"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="170" Foreground="#FFF7F7F7">
+
+
+    <Border BorderThickness="2" BorderBrush="Blue">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30*"></RowDefinition>
+                <RowDefinition Height="26*"/>
+                <RowDefinition Height="35*"></RowDefinition>
+                <RowDefinition Height="26*"/>
+                <RowDefinition Height="35*"></RowDefinition>
+                <RowDefinition Height="26*"/>
+                <RowDefinition Height="35*"></RowDefinition>
+                <RowDefinition Height="26*"/>
+                <RowDefinition Height="35*"></RowDefinition>
+                <RowDefinition Height="26*"></RowDefinition>
+                <RowDefinition Height="35*"></RowDefinition>
+                <RowDefinition Height="57*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Rectangle Stroke="White" Fill="Black" Grid.Row="0" Grid.RowSpan="12" Grid.Column="0" Grid.ColumnSpan="2"/>
+            <Label Content=">Longitude"  HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="White" Grid.Row="1" Grid.ColumnSpan="2"/>
+            <TextBox x:Name="lon_label"  HorizontalAlignment="Right" VerticalAlignment="Top" IsReadOnly="true" Grid.Row="2" Grid.Column="1" />
+
+            <Label Content=">Latitude"  HorizontalAlignment="Left"  VerticalAlignment="Top" Foreground="White" Grid.Row="3" Grid.ColumnSpan="2"/>
+            <TextBox x:Name="lat_label"  HorizontalAlignment="Right" VerticalAlignment="Top" IsReadOnly="true" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2"/>
+
+            <Label Content=">Altitude"  HorizontalAlignment="Left" VerticalAlignment="Top"  Foreground="White" Grid.ColumnSpan="2" Grid.Row="5" />
+            <TextBox x:Name="alt_label"  HorizontalAlignment="Right" VerticalAlignment="Top"  IsReadOnly="true" Grid.ColumnSpan="2" Grid.Row="6" />
+
+            <Label Content=">Velocity"  HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="White" Grid.ColumnSpan="2" Grid.Row="7" />
+            <TextBox x:Name="vel_label"  HorizontalAlignment="Right" VerticalAlignment="Top" IsReadOnly="true" Grid.ColumnSpan="2" Grid.Row="8" />
+
+            <Label Content=">Date &amp; Time"  HorizontalAlignment="Left" VerticalAlignment="Top"  Foreground="White" Grid.ColumnSpan="2" Grid.Row="9" />
+            <TextBox x:Name="time_label"  HorizontalAlignment="Right"  VerticalAlignment="Top" IsReadOnly="true" Grid.ColumnSpan="2" Grid.Row="10" />
+
+            <RadioButton x:Name="km_radio" Content="Km" HorizontalAlignment="Center" VerticalAlignment="Top" Foreground="White" Checked="CheckKm" IsChecked="true" Grid.Row="11" Grid.Column="0"/>
+            <RadioButton x:Name="mil_radio" Content="Miles" HorizontalAlignment="Center" VerticalAlignment="Top" Foreground="White" Checked="CheckMiles" Grid.Row="11" Grid.Column="1"/>
+
+        </Grid>
+    </Border>
+</UserControl>

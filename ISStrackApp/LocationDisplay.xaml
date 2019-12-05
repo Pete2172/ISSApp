@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="ISStrackApp.LocationDisplay"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:m="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF"
+             xmlns:local="clr-namespace:ISStrackApp"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+
+        <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Content="Timezone ID:" Grid.Row="0" Grid.Column="0" VerticalAlignment="Top" HorizontalAlignment="Center" Foreground="White"/>
+        <Label Content="Country Code:" Grid.Row="0" Grid.Column="1" VerticalAlignment="Top" HorizontalAlignment="Center" Foreground="White"/>
+        <TextBox x:Name="TimeZoneBox" Grid.Row="1" Grid.Column="0" VerticalAlignment="Top" HorizontalAlignment="Stretch" IsReadOnly="True" TextAlignment="Center"/>
+        <TextBox x:Name="CountryCodeBox" Grid.Row="1" Grid.Column="1" VerticalAlignment="Top" HorizontalAlignment="Stretch" IsReadOnly="True" TextAlignment="Center"/>
+        <m:Map x:Name="Map" CredentialsProvider="kdZJmZ4vgujbABzslMTx~LJdezJEfoUd_AGfouXIjRg~AgDg1zk0AZwHJIi709KW2T97_JL8p5AJS8szvnwdLyFQRNMyc0bfsVGJUBnxIve9" Center="0,0" ZoomLevel="10" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Grid.RowSpan="2" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Loaded="MapLoaded" Mode="AerialWithLabels">
+            <m:Pushpin x:Name="Pin" Location="0,0"/> 
+        </m:Map> 
+
+    </Grid>
+
+</UserControl>

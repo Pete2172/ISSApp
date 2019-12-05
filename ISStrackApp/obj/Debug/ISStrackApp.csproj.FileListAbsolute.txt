@@ -1,0 +1,58 @@
+C:\Users\Piotr\source\repos\ISStrackApp\ISStrackApp\bin\Debug\ISStrackApp.exe.config
+C:\Users\Piotr\source\repos\ISStrackApp\ISStrackApp\bin\Debug\ISStrackApp.exe
+C:\Users\Piotr\source\repos\ISStrackApp\ISStrackApp\bin\Debug\ISStrackApp.pdb
+C:\Users\Piotr\source\repos\ISStrackApp\ISStrackApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Piotr\source\repos\ISStrackApp\ISStrackApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Piotr\source\repos\ISStrackApp\ISStrackApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Piotr\source\repos\ISStrackApp\ISStrackApp\obj\Debug\ISStrackApp.csprojAssemblyReference.cache
+C:\Users\Piotr\source\repos\ISStrackApp\ISStrackApp\obj\Debug\MainWindow.g.cs
+C:\Users\Piotr\source\repos\ISStrackApp\ISStrackApp\obj\Debug\App.g.cs
+C:\Users\Piotr\source\repos\ISStrackApp\ISStrackApp\obj\Debug\ISStrackApp_MarkupCompile.cache
+C:\Users\Piotr\source\repos\ISStrackApp\ISStrackApp\obj\Debug\ISStrackApp_MarkupCompile.lref
+C:\Users\Piotr\source\repos\ISStrackApp\ISStrackApp\obj\Debug\MainWindow.baml
+C:\Users\Piotr\source\repos\ISStrackApp\ISStrackApp\obj\Debug\ISStrackApp.g.resources
+C:\Users\Piotr\source\repos\ISStrackApp\ISStrackApp\obj\Debug\ISStrackApp.Properties.Resources.resources
+C:\Users\Piotr\source\repos\ISStrackApp\ISStrackApp\obj\Debug\ISStrackApp.csproj.GenerateResource.cache
+C:\Users\Piotr\source\repos\ISStrackApp\ISStrackApp\obj\Debug\ISStrackApp.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\ISStrackApp\ISStrackApp\obj\Debug\ISStrackApp.csproj.CopyComplete
+C:\Users\Piotr\source\repos\ISStrackApp\ISStrackApp\obj\Debug\ISStrackApp.exe
+C:\Users\Piotr\source\repos\ISStrackApp\ISStrackApp\obj\Debug\ISStrackApp.pdb
+C:\Users\Piotr\source\repos\ISStrackApp\ISStrackApp\obj\Debug\DataDisplay.g.cs
+C:\Users\Piotr\source\repos\ISStrackApp\ISStrackApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Piotr\source\repos\ISStrackApp\ISStrackApp\obj\Debug\DataDisplay.baml
+C:\Users\Piotr\source\repos\ISStrackApp\ISStrackApp\obj\Debug\MapDisplay.g.cs
+C:\Users\Piotr\source\repos\ISStrackApp\ISStrackApp\obj\Debug\MapDisplay.baml
+C:\Users\Piotr\source\repos\ISStrackApp\ISStrackApp\obj\Debug\ISStrackApp.Resource1.resources
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\bin\Debug\ISStrackApp.exe.config
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\bin\Debug\ISStrackApp.exe
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\bin\Debug\ISStrackApp.pdb
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\bin\Debug\Newtonsoft.Json.dll
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\bin\Debug\Newtonsoft.Json.pdb
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\bin\Debug\Newtonsoft.Json.xml
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\obj\Debug\ISStrackApp.csprojAssemblyReference.cache
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\obj\Debug\DataDisplay.g.cs
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\obj\Debug\MainWindow.g.cs
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\obj\Debug\MapDisplay.g.cs
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\obj\Debug\App.g.cs
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\obj\Debug\ISStrackApp_MarkupCompile.cache
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\obj\Debug\ISStrackApp_MarkupCompile.lref
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\obj\Debug\DataDisplay.baml
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\obj\Debug\MainWindow.baml
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\obj\Debug\MapDisplay.baml
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\obj\Debug\ISStrackApp.g.resources
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\obj\Debug\ISStrackApp.Properties.Resources.resources
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\obj\Debug\ISStrackApp.Resource1.resources
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\obj\Debug\ISStrackApp.csproj.GenerateResource.cache
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\obj\Debug\ISStrackApp.csproj.CoreCompileInputs.cache
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\obj\Debug\ISStrackApp.csproj.CopyComplete
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\obj\Debug\ISStrackApp.exe
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\obj\Debug\ISStrackApp.pdb
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\obj\Debug\LocationDisplay.g.cs
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\obj\Debug\LocationDisplay.baml
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\bin\Debug\EntityFramework.dll
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\bin\Debug\EntityFramework.xml
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+D:\stare pliki kowalczuk\repos\ISStrackApp\ISStrackApp\bin\Debug\Microsoft.Maps.MapControl.WPF.xml

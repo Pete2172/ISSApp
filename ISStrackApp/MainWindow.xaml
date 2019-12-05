@@ -1,0 +1,33 @@
+﻿<Window x:Class="ISStrackApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ISStrackApp"
+        xmlns:properties="clr-namespace:ISStrackApp.Properties"
+        mc:Ignorable="d"
+        Background="Black"
+        Title="ISS tracker" Height="685" Width="811" SizeChanged="Window_SizeChanged" >
+        
+
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="172"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="20"></RowDefinition>
+        </Grid.RowDefinitions>
+        <local:DataDisplay x:Name="dataDisp" VerticalAlignment="Top" HorizontalAlignment="Center" Grid.Row="0" Grid.Column="0" Grid.RowSpan="2"/>
+        <local:MapDisplay x:Name="mapDisp" VerticalAlignment="Top" HorizontalAlignment="Center" Grid.Row="0" Grid.Column="1"/>
+        <local:LocationDisplay x:Name="locDisp" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Grid.Row="1" Grid.Column="1"/>
+        <StatusBar Grid.Row ="2" Grid.Column="0" Grid.ColumnSpan="2">
+            <ProgressBar x:Name="progBar" Width="100"/>
+        </StatusBar>
+    </Grid>
+
+
+</Window>
